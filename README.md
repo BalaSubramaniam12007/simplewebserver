@@ -68,7 +68,7 @@ httpd.serve_forever()
 '''
 
 ## OUTPUT:
-
+![alt text]({8B09E24C-AD58-4AEF-AA7A-65417738BCA8}.png)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
